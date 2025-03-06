@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstract\\bmwaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstract\\bmwaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstract\\porschearaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstract\\porschearaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstract\\mercedesaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstract\\mercedesaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstract\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstract\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstract\\iyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstract\\iyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\ihareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\ihareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\genel mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\genel mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\porsche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\mercedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\abstraction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|c:\\users\\w11\u0027\\desktop\\odevabstraction\\abstraction\\abstraction\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818CFBA5-CF4E-4A2E-B29D-C4AD261B7ECC}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\classes\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PorscheAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\PorscheAraba.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Abstract\\PorscheAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\PorscheAraba.cs",
+              "RelativeToolTip": "Abstraction\\Abstract\\PorscheAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:00:41.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv5cAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:43:03.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\Araba.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Abstract\\Araba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\Araba.cs",
+              "RelativeToolTip": "Abstraction\\Abstract\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:38:52.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IYakitTuketimi.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\IYakitTuketimi.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Abstract\\IYakitTuketimi.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\IYakitTuketimi.cs",
+              "RelativeToolTip": "Abstraction\\Abstract\\IYakitTuketimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:40:20.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMWAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\BMWAraba.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Abstract\\BMWAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\BMWAraba.cs",
+              "RelativeToolTip": "Abstraction\\Abstract\\BMWAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:57:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genel Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Genel Mudur.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Genel Mudur.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Genel Mudur.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Genel Mudur.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:11:44.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHareket.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\IHareket.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\IHareket.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\IHareket.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\IHareket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T17:33:24.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Calisan.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Calisan.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Calisan.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:11:10.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\BMW.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\BMW.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\BMW.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\BMW.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:46:23.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MercedesAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\MercedesAraba.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Abstract\\MercedesAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstract\\MercedesAraba.cs",
+              "RelativeToolTip": "Abstraction\\Abstract\\MercedesAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:59:36.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Araba.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Araba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Araba.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Araba.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:45:56.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Porsche.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Porsche.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Porsche.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Porsche.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Porsche.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:46:57.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mercedes.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Mercedes.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Mercedes.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Mercedes.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Mercedes.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:46:41.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Abstraction.csproj",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstraction.csproj",
+              "RelativeDocumentMoniker": "Abstraction\\Abstraction.csproj",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Abstraction.csproj",
+              "RelativeToolTip": "Abstraction\\Abstraction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T16:09:21.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Mudur.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Mudur.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Mudur.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Mudur.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:12:15.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Stajyer.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Stajyer.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Stajyer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:13:09.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Programci.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Classes\\Programci.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\OdevAbstraction\\Abstraction\\Abstraction\\Classes\\Programci.cs",
+              "RelativeToolTip": "Abstraction\\Classes\\Programci.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:12:38.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
