@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\calisanmaashesapla\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\calisanmaashesapla\\stajyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\calisanmaashesapla\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\calisanmaashesapla\\programci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\calisanmaashesapla\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\calisanmaashesapla\\mudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\calisanmaashesapla\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\calisanmaashesapla\\genelmudur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\calisanmaashesapla\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\calisanmaashesapla\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\loopconditionassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\loopconditionassignment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arababenzintuketimi\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arababenzintuketimi\\araba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arababenzintuketimi\\porschearaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arababenzintuketimi\\porschearaba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arababenzintuketimi\\mercedesaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arababenzintuketimi\\mercedesaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arababenzintuketimi\\iyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arababenzintuketimi\\iyakittuketimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arababenzintuketimi\\bmwaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arababenzintuketimi\\bmwaraba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\yaskategorisi\\yasprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\yaskategorisi\\yasprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\loopcondition\\loopconditionassignment\\loopconditionassignment\\arabadurumu\\arabaprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8FF1A75-1DC5-4180-86A1-52619068F68D}|LoopConditionAssignment\\LoopConditionAssignment.csproj|solutionrelative:loopconditionassignment\\arabadurumu\\arabaprogrami.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 347,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mudur.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Mudur.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\CalisanMaasHesapla\\Mudur.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Mudur.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\CalisanMaasHesapla\\Mudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:27:12.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programci.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Programci.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\CalisanMaasHesapla\\Programci.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Programci.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\CalisanMaasHesapla\\Programci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:27:26.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stajyer.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Stajyer.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\CalisanMaasHesapla\\Stajyer.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Stajyer.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\CalisanMaasHesapla\\Stajyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:27:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenelMudur.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\GenelMudur.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\CalisanMaasHesapla\\GenelMudur.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\GenelMudur.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\CalisanMaasHesapla\\GenelMudur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:27:44.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calisan.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Calisan.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\CalisanMaasHesapla\\Calisan.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\CalisanMaasHesapla\\Calisan.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\CalisanMaasHesapla\\Calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T21:27:55.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\Program.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\Program.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAYwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:19:04.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoopConditionAssignment.csproj",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\LoopConditionAssignment.csproj",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\LoopConditionAssignment.csproj",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\LoopConditionAssignment.csproj",
+              "RelativeToolTip": "LoopConditionAssignment\\LoopConditionAssignment.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-14T14:39:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ArabaProgrami.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaDurumu\\ArabaProgrami.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaDurumu\\ArabaProgrami.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaDurumu\\ArabaProgrami.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaDurumu\\ArabaProgrami.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADgvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:41:53.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YasProgrami.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\YasKategorisi\\YasProgrami.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\YasKategorisi\\YasProgrami.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\YasKategorisi\\YasProgrami.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\YasKategorisi\\YasProgrami.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T14:40:18.526Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Araba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\Araba.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaBenzinTuketimi\\Araba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\Araba.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaBenzinTuketimi\\Araba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:37:43.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PorscheAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\PorscheAraba.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaBenzinTuketimi\\PorscheAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\PorscheAraba.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaBenzinTuketimi\\PorscheAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:38:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MercedesAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\MercedesAraba.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaBenzinTuketimi\\MercedesAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\MercedesAraba.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaBenzinTuketimi\\MercedesAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:38:41.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IYakitTuketimi.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\IYakitTuketimi.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaBenzinTuketimi\\IYakitTuketimi.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\IYakitTuketimi.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaBenzinTuketimi\\IYakitTuketimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:38:25.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BMWAraba.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\BMWAraba.cs",
+              "RelativeDocumentMoniker": "LoopConditionAssignment\\ArabaBenzinTuketimi\\BMWAraba.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\LoopCondition\\LoopConditionAssignment\\LoopConditionAssignment\\ArabaBenzinTuketimi\\BMWAraba.cs",
+              "RelativeToolTip": "LoopConditionAssignment\\ArabaBenzinTuketimi\\BMWAraba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:38:04.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

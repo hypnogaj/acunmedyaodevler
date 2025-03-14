@@ -1,0 +1,14 @@
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\bin\Debug\net8.0\LoopConditionAssignment.exe
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\bin\Debug\net8.0\LoopConditionAssignment.deps.json
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\bin\Debug\net8.0\LoopConditionAssignment.runtimeconfig.json
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\bin\Debug\net8.0\LoopConditionAssignment.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\bin\Debug\net8.0\LoopConditionAssignment.pdb
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.AssemblyInfoInputs.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.AssemblyInfo.cs
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\refint\LoopConditionAssignment.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.pdb
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\LoopConditionAssignment.genruntimeconfig.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\LoopCondition\LoopConditionAssignment\LoopConditionAssignment\obj\Debug\net8.0\ref\LoopConditionAssignment.dll
