@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\W11'\\Desktop\\Acunmedya Akademi\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj": {}
+    "C:\\Users\\W11'\\Desktop\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\W11'\\Desktop\\Acunmedya Akademi\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj": {
+    "C:\\Users\\W11'\\Desktop\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\W11'\\Desktop\\Acunmedya Akademi\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj",
+        "projectUniqueName": "C:\\Users\\W11'\\Desktop\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj",
         "projectName": "AccesModifiers",
-        "projectPath": "C:\\Users\\W11'\\Desktop\\Acunmedya Akademi\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj",
+        "projectPath": "C:\\Users\\W11'\\Desktop\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\AccesModifiers.csproj",
         "packagesPath": "C:\\Users\\W11'\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\W11'\\Desktop\\Acunmedya Akademi\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\obj\\",
+        "outputPath": "C:\\Users\\W11'\\Desktop\\ErişimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

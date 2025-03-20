@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\",
+  "WorkspaceRootPath": "C:\\Users\\W11\u0027\\Desktop\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABD15BDB-8D81-47BE-8CAB-B2AF0E60DD0E}|AccesModifiers\\AccesModifiers.csproj|c:\\users\\w11\u0027\\desktop\\acunmedya akademi\\eri\u015Fimbelirleyicilervedegiskenler\\accesmodifiers\\accesmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABD15BDB-8D81-47BE-8CAB-B2AF0E60DD0E}|AccesModifiers\\AccesModifiers.csproj|c:\\users\\w11\u0027\\desktop\\eri\u015Fimbelirleyicilervedegiskenler\\accesmodifiers\\accesmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABD15BDB-8D81-47BE-8CAB-B2AF0E60DD0E}|AccesModifiers\\AccesModifiers.csproj|solutionrelative:accesmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABD15BDB-8D81-47BE-8CAB-B2AF0E60DD0E}|AccesModifiers\\AccesModifiers.csproj|c:\\users\\w11\u0027\\desktop\\eri\u015Fimbelirleyicilervedegiskenler\\accesmodifiers\\accesmodifiers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABD15BDB-8D81-47BE-8CAB-B2AF0E60DD0E}|AccesModifiers\\AccesModifiers.csproj|solutionrelative:accesmodifiers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +18,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 53,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\User.cs",
+              "RelativeDocumentMoniker": "AccesModifiers\\User.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\User.cs",
+              "RelativeToolTip": "AccesModifiers\\User.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:24:41.144Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\Program.cs",
               "RelativeDocumentMoniker": "AccesModifiers\\Program.cs",
-              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Acunmedya Akademi\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Eri\u015FimBelirleyicilerVeDegiskenler\\AccesModifiers\\AccesModifiers\\Program.cs",
               "RelativeToolTip": "AccesModifiers\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADwvzMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T08:50:33.423Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 53,
+          "SelectedChildIndex": -1,
+          "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

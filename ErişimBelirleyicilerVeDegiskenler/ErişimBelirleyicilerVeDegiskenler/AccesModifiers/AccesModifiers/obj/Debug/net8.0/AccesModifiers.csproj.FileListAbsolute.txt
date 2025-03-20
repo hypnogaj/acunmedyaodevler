@@ -1,0 +1,14 @@
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\bin\Debug\net8.0\AccesModifiers.exe
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\bin\Debug\net8.0\AccesModifiers.deps.json
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\bin\Debug\net8.0\AccesModifiers.runtimeconfig.json
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\bin\Debug\net8.0\AccesModifiers.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\bin\Debug\net8.0\AccesModifiers.pdb
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.AssemblyInfoInputs.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.AssemblyInfo.cs
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.csproj.CoreCompileInputs.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\refint\AccesModifiers.dll
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.pdb
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\AccesModifiers.genruntimeconfig.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ErişimBelirleyicilerVeDegiskenler\AccesModifiers\AccesModifiers\obj\Debug\net8.0\ref\AccesModifiers.dll
