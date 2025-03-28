@@ -1,0 +1,10 @@
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\bin\Debug\ArabaBilgiForm.exe.config
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\bin\Debug\ArabaBilgiForm.exe
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\bin\Debug\ArabaBilgiForm.pdb
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.csproj.AssemblyReference.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.Form1.resources
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.Properties.Resources.resources
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.csproj.GenerateResource.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.csproj.CoreCompileInputs.cache
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.exe
+C:\Users\W11'\Desktop\Acunmedya Akademi\ArabaBilgi\ArabaBilgiForm\ArabaBilgiForm\obj\Debug\ArabaBilgiForm.pdb
