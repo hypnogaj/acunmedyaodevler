@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.webui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|solutionrelative:eticaret.webui\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C894ECB-674B-416A-99E2-5317FCD9D1E5}|Eticaret.Service\\Eticaret.Service.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.service\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C894ECB-674B-416A-99E2-5317FCD9D1E5}|Eticaret.Service\\Eticaret.Service.csproj|solutionrelative:eticaret.service\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|solutionrelative:eticaret.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.core\\entities\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\orderline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4862A53A-7A0C-4DF7-9607-B35F90AB9D0A}|Eticaret.Core\\Eticaret.Core.csproj|solutionrelative:eticaret.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|solutionrelative:eticaret.webui\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|c:\\users\\w11\u0027\\desktop\\store\\eticaret\\eticaret.webui\\views\\cart\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9944D054-BC1C-445F-A6F3-A6663DC83594}|Eticaret.WebUI\\Eticaret.WebUI.csproj|solutionrelative:eticaret.webui\\views\\cart\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 466,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Eticaret.WebUI\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\Shared\\_Header.cshtml*",
+              "RelativeToolTip": "Eticaret.WebUI\\Views\\Shared\\_Header.cshtml*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T21:39:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Eticaret.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Eticaret.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-19T21:43:39.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:20:33.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\News.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\News.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:20:28.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\Slider.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\Slider.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\Slider.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T15:19:36.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderLine.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\OrderLine.cs",
+              "RelativeDocumentMoniker": "Eticaret.Core\\Entities\\OrderLine.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Core\\Entities\\OrderLine.cs",
+              "RelativeToolTip": "Eticaret.Core\\Entities\\OrderLine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:33:46.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Eticaret.WebUI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Eticaret.WebUI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T14:55:29.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\Cart\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "Eticaret.WebUI\\Views\\Cart\\Thanks.cshtml",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.WebUI\\Views\\Cart\\Thanks.cshtml",
+              "RelativeToolTip": "Eticaret.WebUI\\Views\\Cart\\Thanks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-16T14:47:21.622Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 21,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Service\\Concrete\\CartService.cs",
+              "RelativeDocumentMoniker": "Eticaret.Service\\Concrete\\CartService.cs",
+              "ToolTip": "C:\\Users\\W11\u0027\\Desktop\\Store\\Eticaret\\Eticaret.Service\\Concrete\\CartService.cs",
+              "RelativeToolTip": "Eticaret.Service\\Concrete\\CartService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:55:26.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

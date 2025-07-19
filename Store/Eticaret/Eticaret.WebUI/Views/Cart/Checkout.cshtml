@@ -1,0 +1,211 @@
+﻿@model CheckoutViewModel
+@{
+    ViewData["Title"] = "Satın Al";
+}
+<style>
+    /* Tüm tarayıcılar için genel stil */
+    input[type="number"]::-webkit-outer-spin-button, input[type="number"]::-webkit-inner-spin-button {
+        -webkit-appearance: none;
+        margin: 0;
+    }
+    /* Firefox için stil */
+    input[type="number"] {
+        -moz-appearance: textfield;
+    }
+</style>
+<!-- shop section start -->
+<section id="cart" class="container my-5">
+    <h1>Satın Al</h1>
+    <!-- row start -->
+    @if (Model.CartProducts.Any())
+    {
+        <div class="row">
+            <!-- cart contents start -->
+            <div class="col-md-8">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>Ürün</th>
+                                <th>Fiyat</th>
+                                <th class="qtycolumn">Miktar</th>
+                                <th>Toplam</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.CartProducts)
+                            {
+                                <tr>
+                                    <td><img alt="" class="mw-100" height="37" src="~/Img/@item.Product.Image"></td>
+                                    <td><a class="dropdown-item" href="/@item.Product.Name.ToLower().Replace(" ", "-").Replace("ç", "c").Replace("ı", "i")/Products/Detail/@item.Product.Id">@item.Product.Name</a></td>
+                                    <td>@item.Product.Price.ToString("c")</td>
+                                    <td>
+                                        @item.Quantity
+                                    </td>
+                                    <td>@((item.Quantity * item.Product.Price).ToString("c"))</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- cart contents end -->
+            <!-- cart total start -->
+            <div class="col-md-4 mt-2 border-start">
+                <div class="text-left">
+                    <h4>Sipariş Özeti</h4>
+                </div>
+                <table class="table">
+                    <tbody>
+                        <tr>
+                            <th>Ürün Toplamı</th>
+                            <td>@Model.TotalPrice.ToString("c")</td>
+                        </tr>
+                        <tr>
+                            <th>Kargo</th>
+                            <td>@(Model.TotalPrice > 999 ? "Ücretsiz" : Model.CartProducts.Any() ? "₺69" : "₺0") </td>
+                        </tr>
+                        <tr>
+                            <th>Sipariş Toplamı</th>
+                            <td class="ordertotal">
+                                @(Model.TotalPrice > 999 ? Model.TotalPrice.ToString("c") : (Model.CartProducts.Any() ? Model.TotalPrice + 69 : Model.TotalPrice).ToString("c"))
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div>
+            <!-- cart total end -->
+        </div>
+        <hr />
+        @if (Model.Addresses is null || Model.Addresses.Count < 1)
+        {
+            <div class="alert alert-secondary my-5">
+                <h5 class="text-danger">
+                    Kayıtlı Adresiniz Yok!
+                </h5>
+                <h6>
+                    Sipariş Verebilmek İçin En Az 1 Adres Eklemelisiniz.
+                </h6>
+                <a asp-controller="MyAddresses" asp-action="Create" class="btn btn-danger">
+                    <i class="bi bi-person-plus me-1"></i> Adres Ekle
+                </a>
+            </div>
+        }
+        else
+        {
+            <form asp-action="Checkout" method="post">
+                <div class="my-5">
+                    <h3>Teslimat Adresi</h3>
+                    <div class="row row-cols-3 g-4">
+                        @foreach (var item in Model.Addresses)
+                        {
+                            <div class="col">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <div class="form-check">
+                                            @*<input class="form-check-input" type="radio" name="DeliveryAddress" id="DeliveryAddress" @(item.IsDeliveryAddress ? "checked" : "")>*@
+                                            <label class="form-check-label">
+                                                <input class="form-check-input" type="radio" name="DeliveryAddress" id="DeliveryAddress" @(item.IsDeliveryAddress ? "checked" : "")>
+                                                @item.Title
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="card-body">
+                                        <p class="card-text">@item.OpenAddress @item.District @item.City</p>
+
+                                        <div class="form-check">
+                                            <label class="form-check-label">
+                                                <input class="form-check-input" type="radio" name="BillingAddress" id="BillingAddress" value="@item.AddressGuid" @(item.IsBillingAddress ? "checked" : "")>
+                                                Fatura Adresi
+                                            </label>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                <hr />
+                <div class="my-3">
+                    <h2>Ödeme Seçenekleri</h2>
+                    <h4>Kart ile Öde</h4>
+                    <h6>Banka veya Kredi Kartı kullanarak ödemenizi güvenle yapabilirsiniz.</h6>
+                    <h6>Kart Bilgileri</h6>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>Kart Üzerindeki İsim</label>
+                            <input type="text" name="CardNameSurname" class="form-control" required />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4">
+                            <label>Kart Numarası</label>
+                            <input type="number" name="CardNumber" class="form-control" maxlength="16" required />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label>Son Kullanma Tarihi</label>
+                        <div class="col-md-2">
+                            <select id="card-date-month" name="CardMonth" class="form-select" required>
+                                <option disabled="disabled" value="" selected="selected">Ay</option>
+                                <option value="1">01</option>
+                                <option value="2">02</option>
+                                <option value="3">03</option>
+                                <option value="4">04</option>
+                                <option value="5">05</option>
+                                <option value="6">06</option>
+                                <option value="7">07</option>
+                                <option value="8">08</option>
+                                <option value="9">09</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option value="12">12</option>
+                            </select>
+                        </div>
+                        <div class="col-md-2">
+                            <select id="card-date-year" name="CardYear" class="form-select" required>
+                                <option disabled="disabled" value="" selected="selected">Yıl</option>
+                                <option value="2024">2024</option>
+                                <option value="2025">2025</option>
+                                <option value="2026">2026</option>
+                                <option value="2027">2027</option>
+                                <option value="2028">2028</option>
+                                <option value="2029">2029</option>
+                                <option value="2030">2030</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-2">
+                            <label>CVV</label>
+                            <input type="number" name="CVV" class="form-control" maxlength="3" min="1" max="999" required />
+                        </div>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="checkbox" required id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                            Ön Bilgilendirme Koşulları'nı ve Mesafeli Satış Sözleşmesi'ni okudum, onaylıyorum.
+                        </label>
+                    </div>
+                    <button type="submit" class="btn btn-success">Ödeme Yap</button>
+                </div>
+            </form>
+        }
+    }
+    else
+    {
+        <div class="alert alert-secondary">
+            <h5 class="text-danger">
+                Sepetinizde Ürün Yok!
+            </h5>
+            <a asp-controller="Home" asp-action="Index" class="btn btn-danger">
+                <i class="bi bi-cart me-1"></i>Alışverişe Devam Edelim
+            </a>
+        </div>
+    }
+
+    <!-- row end -->
+</section>
